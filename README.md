@@ -1,5 +1,7 @@
 # Choropleth Map with D3.js
 This project demonstrates how to create a choropleth map using D3.js, a powerful JavaScript library for data visualization. The choropleth map represents county-level education data in the United States.
+## Preview
+![Preview](ChoroplethMap.png)
 
 ## Dependencies
 To run the code, you need to have the following dependencies installed:
