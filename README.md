@@ -4,6 +4,8 @@ This project demonstrates how to create a choropleth map using D3.js, a powerful
 
 ## Preview
 
+This is just an overview of the Chropleth Map
+
 ![Preview](ChoroplethMap.png)
 
 ## Dependencies
